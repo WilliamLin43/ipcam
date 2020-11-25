@@ -1,0 +1,3 @@
+[DEFAULT]
+#Setting Image read timer in second
+READ_TIMER=5
